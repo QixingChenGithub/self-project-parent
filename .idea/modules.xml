@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/self-project-business/self-project-business.iml" filepath="$PROJECT_DIR$/self-project-business/self-project-business.iml" />
+      <module fileurl="file://$PROJECT_DIR$/self-project-common-entity/self-project-common-entity.iml" filepath="$PROJECT_DIR$/self-project-common-entity/self-project-common-entity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/self-project-common-job/self-project-common-job.iml" filepath="$PROJECT_DIR$/self-project-common-job/self-project-common-job.iml" />
+      <module fileurl="file://$PROJECT_DIR$/self-project-common-tool/self-project-common-tool.iml" filepath="$PROJECT_DIR$/self-project-common-tool/self-project-common-tool.iml" />
+      <module fileurl="file://$PROJECT_DIR$/self-project-parent.iml" filepath="$PROJECT_DIR$/self-project-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/self-project-service/self-project-service.iml" filepath="$PROJECT_DIR$/self-project-service/self-project-service.iml" />
+    </modules>
+  </component>
+</project>

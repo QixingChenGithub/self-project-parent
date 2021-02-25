@@ -1,0 +1,5 @@
+# Project exclude paths
+/self-project-business/target/
+/self-project-common-entity/target/
+/self-project-common-job/target/
+/self-project-common-tool/target/

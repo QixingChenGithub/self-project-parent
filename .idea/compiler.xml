@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="self-project-common-job" />
+        <module name="self-project-common-entity" />
+        <module name="self-project-common-tool" />
+        <module name="self-project-business" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="self-project-business" target="8" />
+      <module name="self-project-common-entity" target="8" />
+      <module name="self-project-common-job" target="8" />
+      <module name="self-project-common-tool" target="8" />
+      <module name="self-project-parent" target="1.8" />
+      <module name="self-project-service" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="self-project-business" options="-parameters" />
+      <module name="self-project-common-entity" options="-parameters" />
+      <module name="self-project-common-job" options="-parameters" />
+      <module name="self-project-common-tool" options="-parameters" />
+      <module name="self-project-parent" options="-parameters" />
+      <module name="self-project-service" options="-parameters" />
+    </option>
+  </component>
+</project>
